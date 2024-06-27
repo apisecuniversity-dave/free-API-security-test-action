@@ -1,4 +1,4 @@
-FROM apisecuniversitymohsin/free-cicd-api-testing-baseimage:latest
+FROM apisecuniversitydave/apisecuniversity-free-scan-kong:v1
 
 WORKDIR /apisec
 
